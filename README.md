@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title>High School Cross Country</title>
@@ -26,14 +25,7 @@
         img {
             max-width: 100%;
             height: auto;
-        }
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-            margin-top: 20px;
-        }
+            }
     </style>
 </head>
 <body>
@@ -55,10 +47,5 @@
 
     <p>Want to learn more about cross country? <a href="https://www.coachjayjohnson.com/blog/a-comprehensive-cross-country-training-plan">Click here for some awesome tips and advice on training.</a></p>
 </div>
-
-<footer>
-    <p>&copy; 2024 High School Cross Country</p>
-</footer>
-
 </body>
 </html>
