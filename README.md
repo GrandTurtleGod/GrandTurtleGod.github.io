@@ -41,7 +41,7 @@
     <img src="https://i.ytimg.com/vi/Xo8E8AoapNI/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGFMgZSg9MA8=&rs=AOn4CLA3pke2auOTj70ngLJbAC7NRyFALw" alt="Running through a trail during a cross country meet">
 
     <h2>My Daily Routine</h2>
-    <p>On a typical day, our team meets right at the start of 6th period to do our workout for the day. Warm-ups, dynamic stretching, and then we're off. Sometimes it's an easy recovery run, other times we're doing hill repeats or speed work. My favorite workout is definetly the long runs since you take them easy while running with your friends, and are able to talk and have fun with them. After practice, it's all about recovery—hydrating, stretching, and refueling.</p>
+    <p>On a typical day, our team meets right at the start of 6th period to do our workout for the day. Warm-ups, dynamic stretching, and then we're off. Sometimes it's an easy recovery run, other times we're doing hill repeats or speed work. My favorite workout is definetly the long runs since you take them easy while running with your friends, and are able to talk and have fun with them. After practice, it's all about recovery, stretching, and refueling.</p>
 
     <img src="https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/2/2019/08/22093035/SHSXC-SDN-082319-8-804x1024.jpg" alt="Cross country team warm-up">
 
