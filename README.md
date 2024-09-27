@@ -45,7 +45,6 @@
 
 <img src="https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/2/2019/08/22093035/SHSXC-SDN-082319-8-804x1024.jpg" alt="Cross country team warm-up">
     
-<div class="container">
 <h2>How to Mentally Prepare for a Race</h2>
 <p>Preparing for a race isn’t just physical, it’s mental too. I always make sure to visualize the course the night before, and think through how I want to tackle each part. Staying calm and focused before the race starts is key, so I usually listen to some relaxing music or talk to teammates to keep my mind in the right place.</p>
     
